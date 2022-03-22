@@ -1,25 +1,18 @@
 {
     "members": [
-        {
-            "name": "Mika Varox",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/70/6562-7074f9c16264df584e532ab9bf07a0b9af324256.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
-        },
-        {
-            "name": "Herbert Protz",
-            "rank": "Leitung",
-            "highlight": true,
-            "picture": "https://i.imgur.com/LNaNY4x.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
-        },
           {
             "name": "Michael Melone",
-            "rank": "Organisatorische-Leitung | Sanitäter",
+            "rank": "Leitung | Sanitäter",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
+        },
+        {
+            "name": "Luca Feinstaub",
+            "rank": "Organisatorische-Leitung",
+            "highlight": true,
+            "picture": "https://cdn.discordapp.com/attachments/879580897886744607/935467114989486110/6741-1be640d30d479fd39c7c3d67682f54b3cdf7e412.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2069-skipes123/"
         },
         {
             "name": "Nils Lombax",
@@ -35,13 +28,6 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/5a/6482-5a980102edbb51b2c7928c94663261498fa679fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         }, 
-        {
-            "name": "Michael Melone",
-            "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
-        },
         {
             "name": "Felix Shiro Eckert",
             "rank": "Einsatzleitung Rettungsdienst | Sanitäter",
